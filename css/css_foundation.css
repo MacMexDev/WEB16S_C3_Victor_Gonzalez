@@ -1,0 +1,37 @@
+/**
+ *Grid: Flex Grid;
+ * 
+ *Primary color: #foundation;
+ *Secundary color: #e9e9e9;
+ *Alert color: #9978FF;
+ *Success color: #74FA7E;
+ *Warning color: #C95F00;
+ *
+ * Body font color: #222222;
+ * Header font color: #222222;
+ */
+
+.button-group :last-child {
+	background-color: transparent;
+	border-color: #70B375;
+	color: #70B375;
+}
+
+.img_cat {
+	height: 120px;
+	width: auto;
+	border: solid 2px white;
+}
+
+.img_cont{
+	background-color: rgba(171,136,104,0.3);
+	border: none;
+}
+
+#item_btngp{
+	order: 6;
+}
+
+#item_nav{
+	order: 2;
+}
