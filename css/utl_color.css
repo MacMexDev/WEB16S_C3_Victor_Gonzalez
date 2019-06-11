@@ -1,3 +1,8 @@
+.bgw {
+	background-color: white;
+	min-height: 40px;
+}
+
 .bgr {
 	background-color: red;
 	min-height: 40px;

@@ -1,0 +1,32 @@
+body{
+	background-color: #212121;
+}
+
+#encab_blog{
+	min-height: 100px;
+}
+
+#navblog{
+	background-color: #1A237E;
+}
+
+#navblog a{
+	color: white;
+}
+
+#navblog .nav-item:hover{
+	background-color: rgba(255,255,255,0.5);
+}
+
+#img_logo {
+	height: 150px;
+}
+
+.img_gpo{
+	width: 100%;
+}
+
+.icon_comment{
+	font-size: 3rem;
+	color: #212121;
+}
