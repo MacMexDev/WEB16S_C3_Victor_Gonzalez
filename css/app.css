@@ -1,0 +1,64 @@
+body {
+	background-image: url("../img/blog_gastronomia/garlic_2556022_1280.jpg");
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	/*Image by <a href="https://pixabay.com/users/TheVirtualDenise-5804203/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2556022">Denise Husted</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2556022">Pixabay</a>*/
+}
+
+.bg_cont {
+	background-color: rgba(215, 189, 226,0.5);
+}
+
+.bg_call {
+	background-color: #D7BDE2;
+}
+
+hr, .hrcolor {
+	height: 1px;
+	/*border: 0px;*/
+	/*color: #512E5F !important;*/
+	background-color: #C39BD3;
+}
+
+#buscar .input-group-label{
+	background-color: #884EA0 !important;
+	color: white;
+}
+
+.menu li {
+	border: 1px solid rgba(10, 10, 10, 0.25);
+	border-radius: 3px;
+}
+
+.menu li:hover {
+	background-color: #e6e6e6;
+	cursor: pointer;
+}
+
+.menu li a {
+	color: black;
+}
+
+#title_blog div:first-child {
+	border-right: 1px solid #C39BD3;
+}
+
+.mb15 {
+	margin-bottom: 15px;
+}
+
+.style_vineta {
+  font-size: 1.3rem;
+  margin-right: 5px;
+  /*text-shadow: 0 1px 3px rgba(0,0,0,0.25);*/
+  color: #A9014B;
+}
+
+div[class*="list"] img{
+	width: auto;
+	height: 70px;
+}
+
+
