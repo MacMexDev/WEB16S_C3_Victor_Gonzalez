@@ -1,0 +1,12 @@
+body {
+	background-image: url("../img/blog_turismo/bckg.jpg");
+	background-repeat: no-repeat;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	/*Image by <a href="https://pixabay.com/users/TheVirtualDenise-5804203/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2556022">Denise Husted</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2556022">Pixabay</a>*/
+}
+
+.img_place img {
+	width: 100%;
+}
